@@ -7,6 +7,11 @@ This repository hosts the code for Stanford Pupper and Stanford Woofer, Raspberr
 
 ![Pupper CC Max Morse](images/IMG_0699.HEIC)
 
+
+<img src="./images/pupper-4.jpg">
+
+<img src="./images/pupper-5.jpg">
+
 Video of pupper in action: 
 
 main project page: https://stanfordstudentrobotics.org/pupper
