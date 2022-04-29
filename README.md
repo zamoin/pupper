@@ -17,7 +17,6 @@ main project page: https://stanfordstudentrobotics.org/pupper
 Instructions by creators: https://pupper.readthedocs.io/en/latest/
 
 ## How it works
-![Overview diagram](imgs/diagram1.jpg)
 https://github.com/stanfordroboticsclub/StanfordQuadruped
 
 
