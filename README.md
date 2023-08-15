@@ -28,3 +28,8 @@ https://github.com/stanfordroboticsclub/StanfordQuadruped
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="./images/pupper-5.jpg" width="45%">
 </p>
+<p align="center">
+  <img alt="Light" src="./images/20210704_175959.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./images/pupper-7.png" width="45%">
+</p>
