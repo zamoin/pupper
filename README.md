@@ -6,7 +6,7 @@ Stanford Pupper is an quadruped robot designed to help K-12 and undergraduate st
 
 This repository hosts the code for Stanford Pupper and Stanford Woofer, Raspberry Pi-based quadruped robots that can trot, walk, and jump. 
 
-Tech Specs:
+## Tech Specs
 
 Cost: $600-$1000 if you source the parts yourself, otherwise cheaper if you purchase a parts kit. 
 
@@ -14,8 +14,7 @@ Build time: ~ 8 hours depending on expertise
 
 Actuators: 12 x JX Servo CLS6336HV
 
-Video of pupper in action: 
-
+## Video of pupper in action
 main project page: https://stanfordstudentrobotics.org/pupper
 
 
