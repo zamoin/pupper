@@ -21,7 +21,7 @@ Actuators: 12 x JX Servo CLS6336HV
 </a>
 
 ## How it works
-main project page: https://stanfordstudentrobotics.org/pupper
+https://stanfordstudentrobotics.org/pupper
 
 ## How to Build Pupper
 Main documentation: https://pupper.readthedocs.io/en/latest/
