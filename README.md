@@ -31,6 +31,7 @@ https://github.com/stanfordroboticsclub/StanfordQuadruped
 ## Summer - 2021
 2021 Summer Internship - 06/12 - 08/16
 - [Pictures](https://photos.app.goo.gl/KWqq1wEC8hfWhWNT8)
+- [YouTube Channel](https://www.youtube.com/playlist?list=PL6_LGlA3QhULBplfvBtZeD1Q1zcZa0OD2)
 <p align="center">
   <img alt="Light" src="./images/20210715_153811.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
