@@ -15,11 +15,13 @@ Build time: ~ 8 hours depending on expertise
 Actuators: 12 x JX Servo CLS6336HV
 
 ## Video of pupper in action
-main project page: https://stanfordstudentrobotics.org/pupper
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ztyfjre39FI" target="_blank">
+ <img src="http://img.youtube.com/vi/ztyfjre39FI/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+</a>
 
 ## How it works
-https://github.com/stanfordroboticsclub/StanfordQuadruped
+main project page: https://stanfordstudentrobotics.org/pupper
 
 ## How to Build Pupper
 Main documentation: https://pupper.readthedocs.io/en/latest/
