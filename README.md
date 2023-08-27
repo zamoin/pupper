@@ -27,6 +27,10 @@ https://stanfordstudentrobotics.org/pupper
 Main documentation: https://pupper.readthedocs.io/en/latest/
 This site has all instructions and materials needed.
 
+## Contributors
+- [Zohran](https://github.com/zamoin)
+- [Izaan](https://github.com/)
+
 ## Help
 https://github.com/stanfordroboticsclub/StanfordQuadruped
 
