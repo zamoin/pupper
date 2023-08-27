@@ -29,7 +29,7 @@ This site has all instructions and materials needed.
 
 ## Contributors
 - [Zohran](https://github.com/zamoin)
-- [Izaan](https://github.com/)
+- [Izaan](https://github.com/izaan)
 
 ## Help
 https://github.com/stanfordroboticsclub/StanfordQuadruped
